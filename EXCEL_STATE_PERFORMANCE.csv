@@ -1,0 +1,162 @@
+"State";"Measure_ID";"Measure_Name";"TECH_SCORE";"LEGACY_SCORE";"Safety_Gap_Percent";"Hospital_num"
+"WY";"MORT_30_PN";"Death rate for pneumonia patients";19.1;12.0;7.1;11
+"KS";"MORT_30_PN";"Death rate for pneumonia patients";18.42;15.64;2.78;59
+"SD";"MORT_30_PN";"Death rate for pneumonia patients";17.14;14.5;2.636;24
+"CT";"MORT_30_PN";"Death rate for pneumonia patients";16.5;14.0;2.5;5
+"WV";"MORT_30_PN";"Death rate for pneumonia patients";17.81;15.33;2.479;19
+"IN";"MORT_30_AMI";"Death rate for heart attack patients";12.35;10.0;2.353;18
+"FL";"MORT_30_PN";"Death rate for pneumonia patients";15.56;13.33;2.227;28
+"IL";"MORT_30_PN";"Death rate for pneumonia patients";17.19;15.13;2.063;56
+"MN";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.58;2.0;1.579;39
+"MS";"MORT_30_AMI";"Death rate for heart attack patients";13.57;12.0;1.571;8
+"NE";"MORT_30_PN";"Death rate for pneumonia patients";18.42;17.0;1.424;37
+"PR";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";4.0;2.67;1.333;5
+"AR";"MORT_30_AMI";"Death rate for heart attack patients";12.67;11.5;1.167;14
+"TN";"MORT_30_AMI";"Death rate for heart attack patients";13.17;12.0;1.167;13
+"AR";"MORT_30_PN";"Death rate for pneumonia patients";17.89;16.75;1.143;32
+"ME";"MORT_30_PN";"Death rate for pneumonia patients";17.14;16.0;1.143;15
+"IL";"MORT_30_AMI";"Death rate for heart attack patients";12.39;11.33;1.054;34
+"WA";"MORT_30_PN";"Death rate for pneumonia patients";17.63;16.6;1.032;24
+"DC";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";4.0;3.0;1.0;5
+"MI";"MORT_30_PN";"Death rate for pneumonia patients";16.69;15.71;0.973;39
+"AL";"MORT_30_PN";"Death rate for pneumonia patients";17.7;16.75;0.954;31
+"TN";"MORT_30_PN";"Death rate for pneumonia patients";18.2;17.29;0.914;37
+"NJ";"MORT_30_AMI";"Death rate for heart attack patients";12.41;11.5;0.909;24
+"LA";"MORT_30_AMI";"Death rate for heart attack patients";12.88;12.0;0.875;18
+"NM";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.86;3.0;0.857;8
+"MO";"MORT_30_AMI";"Death rate for heart attack patients";12.83;12.0;0.833;13
+"MT";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.83;3.0;0.833;13
+"SD";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.83;3.0;0.833;13
+"VT";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.83;3.0;0.833;7
+"GA";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";4.09;3.33;0.761;35
+"NJ";"MORT_30_PN";"Death rate for pneumonia patients";15.75;15.0;0.75;5
+"WA";"MORT_30_AMI";"Death rate for heart attack patients";12.69;12.0;0.688;17
+"LA";"MORT_30_PN";"Death rate for pneumonia patients";17.66;17.0;0.658;39
+"UT";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.63;3.0;0.632;20
+"OH";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.61;3.0;0.614;60
+"OR";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.61;3.0;0.611;19
+"CO";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.56;3.0;0.56;28
+"AZ";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.55;3.0;0.552;31
+"NC";"MORT_30_PN";"Death rate for pneumonia patients";16.74;16.2;0.542;36
+"PA";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.52;3.0;0.518;88
+"NJ";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.83;3.33;0.5;33
+"GA";"MORT_30_AMI";"Death rate for heart attack patients";12.46;12.0;0.462;27
+"KY";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.94;3.5;0.438;18
+"AZ";"MORT_30_PN";"Death rate for pneumonia patients";15.93;15.5;0.433;21
+"OH";"MORT_30_PN";"Death rate for pneumonia patients";16.43;16.0;0.426;48
+"CA";"MORT_30_AMI";"Death rate for heart attack patients";12.06;11.67;0.396;54
+"CT";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.38;3.0;0.385;14
+"MI";"MORT_30_AMI";"Death rate for heart attack patients";12.88;12.5;0.375;18
+"ID";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.67;3.33;0.333;12
+"WI";"MORT_30_PN";"Death rate for pneumonia patients";16.83;16.5;0.333;50
+"NV";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.79;3.5;0.286;16
+"AL";"MORT_30_AMI";"Death rate for heart attack patients";12.25;12.0;0.25;5
+"NY";"MORT_30_AMI";"Death rate for heart attack patients";12.25;12.0;0.25;25
+"OK";"MORT_30_AMI";"Death rate for heart attack patients";12.25;12.0;0.25;10
+"SC";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.92;3.67;0.25;27
+"WV";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.83;3.6;0.233;17
+"MA";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.56;3.33;0.228;44
+"TX";"MORT_30_AMI";"Death rate for heart attack patients";12.37;12.17;0.202;82
+"NC";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.67;3.5;0.174;51
+"KS";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.57;3.4;0.167;35
+"NY";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.5;3.33;0.167;75
+"CA";"MORT_30_PN";"Death rate for pneumonia patients";15.8;15.64;0.161;80
+"GA";"MORT_30_PN";"Death rate for pneumonia patients";17.29;17.17;0.127;40
+"VA";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.79;3.67;0.123;41
+"FL";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.66;3.58;0.076;106
+"TN";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.82;3.75;0.071;32
+"NY";"MORT_30_PN";"Death rate for pneumonia patients";16.26;16.2;0.056;44
+"OK";"MORT_30_PN";"Death rate for pneumonia patients";16.76;16.71;0.05;41
+"IL";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.76;3.73;0.036;66
+"MI";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.75;3.75;0.0;48
+"NE";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";4.0;4.0;0.0;19
+"RI";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.0;3.0;0.0;5
+"TX";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.69;3.71;-0.024;111
+"OK";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.79;3.86;-0.064;36
+"IN";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.49;3.56;-0.07;44
+"MO";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.65;3.75;-0.1;44
+"MT";"MORT_30_PN";"Death rate for pneumonia patients";16.9;17.0;-0.1;11
+"CA";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.68;3.81;-0.135;143
+"IN";"MORT_30_PN";"Death rate for pneumonia patients";16.86;17.0;-0.135;42
+"WI";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.33;3.5;-0.167;30
+"ND";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.8;4.0;-0.2;7
+"ME";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.67;4.0;-0.333;4
+"IA";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.65;4.0;-0.346;29
+"WA";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.57;4.0;-0.429;29
+"PR";"MORT_30_PN";"Death rate for pneumonia patients";20.5;21.0;-0.5;3
+"AL";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.89;4.4;-0.507;33
+"VA";"MORT_30_PN";"Death rate for pneumonia patients";16.36;17.0;-0.636;23
+"LA";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.67;4.33;-0.667;21
+"CO";"MORT_30_PN";"Death rate for pneumonia patients";16.19;17.0;-0.813;18
+"TX";"MORT_30_PN";"Death rate for pneumonia patients";16.59;17.41;-0.823;90
+"MD";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.59;4.67;-1.081;32
+"CT";"MORT_30_AMI";"Death rate for heart attack patients";11.83;13.0;-1.167;7
+"WI";"MORT_30_AMI";"Death rate for heart attack patients";11.8;13.0;-1.2;21
+"OR";"MORT_30_PN";"Death rate for pneumonia patients";17.78;19.0;-1.222;20
+"MO";"MORT_30_PN";"Death rate for pneumonia patients";17.72;19.0;-1.278;38
+"NV";"MORT_30_PN";"Death rate for pneumonia patients";17.5;19.0;-1.5;8
+"ME";"MORT_30_AMI";"Death rate for heart attack patients";12.44;14.0;-1.556;11
+"AK";"MORT_30_PN";"Death rate for pneumonia patients";15.4;17.0;-1.6;6
+"MS";"MORT_30_PN";"Death rate for pneumonia patients";18.74;20.6;-1.857;40
+"PA";"MORT_30_PN";"Death rate for pneumonia patients";16.63;18.67;-2.037;30
+"FL";"MORT_30_AMI";"Death rate for heart attack patients";12.11;14.33;-2.228;41
+"ND";"MORT_30_PN";"Death rate for pneumonia patients";17.53;20.0;-2.471;20
+"KY";"MORT_30_PN";"Death rate for pneumonia patients";18.0;20.5;-2.5;38
+"UT";"MORT_30_PN";"Death rate for pneumonia patients";14.5;17.0;-2.5;17
+"ID";"MORT_30_PN";"Death rate for pneumonia patients";15.82;18.4;-2.582;16
+"NH";"MORT_30_PN";"Death rate for pneumonia patients";16.64;19.5;-2.864;13
+"IA";"MORT_30_PN";"Death rate for pneumonia patients";17.63;21.0;-3.375;65
+"AK";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.57;0.0;0.0;7
+"AR";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.53;0.0;0.0;15
+"AZ";"MORT_30_AMI";"Death rate for heart attack patients";12.25;0.0;0.0;16
+"CA";"PSI_04";"Death rate among surgical inpatients with serious treatable complications";181.0;0.0;0.0;1
+"CO";"MORT_30_AMI";"Death rate for heart attack patients";11.82;0.0;0.0;17
+"DC";"MORT_30_AMI";"Death rate for heart attack patients";11.0;0.0;0.0;1
+"DC";"MORT_30_PN";"Death rate for pneumonia patients";16.0;0.0;0.0;1
+"DE";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";4.0;0.0;0.0;4
+"DE";"MORT_30_AMI";"Death rate for heart attack patients";11.5;0.0;0.0;2
+"DE";"MORT_30_PN";"Death rate for pneumonia patients";0.0;13.0;0.0;1
+"GU";"MORT_30_AMI";"Death rate for heart attack patients";0.0;13.0;0.0;1
+"HI";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";4.0;0.0;0.0;4
+"HI";"MORT_30_AMI";"Death rate for heart attack patients";12.33;0.0;0.0;3
+"HI";"MORT_30_PN";"Death rate for pneumonia patients";16.25;0.0;0.0;4
+"IA";"MORT_30_AMI";"Death rate for heart attack patients";12.0;0.0;0.0;6
+"ID";"MORT_30_AMI";"Death rate for heart attack patients";11.67;0.0;0.0;3
+"KS";"MORT_30_AMI";"Death rate for heart attack patients";12.0;0.0;0.0;5
+"KY";"MORT_30_AMI";"Death rate for heart attack patients";13.0;0.0;0.0;19
+"MA";"MORT_30_AMI";"Death rate for heart attack patients";12.2;0.0;0.0;5
+"MA";"MORT_30_PN";"Death rate for pneumonia patients";14.4;0.0;0.0;5
+"MD";"MORT_30_AMI";"Death rate for heart attack patients";12.0;0.0;0.0;8
+"MD";"MORT_30_PN";"Death rate for pneumonia patients";14.0;0.0;0.0;2
+"MN";"MORT_30_AMI";"Death rate for heart attack patients";11.83;0.0;0.0;6
+"MN";"MORT_30_PN";"Death rate for pneumonia patients";16.82;0.0;0.0;34
+"MP";"MORT_30_AMI";"Death rate for heart attack patients";0.0;13.0;0.0;1
+"MS";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.63;0.0;0.0;16
+"MT";"MORT_30_AMI";"Death rate for heart attack patients";12.0;0.0;0.0;1
+"NC";"MORT_30_AMI";"Death rate for heart attack patients";12.55;0.0;0.0;11
+"ND";"MORT_30_AMI";"Death rate for heart attack patients";11.0;0.0;0.0;2
+"NE";"MORT_30_AMI";"Death rate for heart attack patients";12.13;0.0;0.0;8
+"NH";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.67;0.0;0.0;9
+"NH";"MORT_30_AMI";"Death rate for heart attack patients";11.0;0.0;0.0;3
+"NM";"MORT_30_AMI";"Death rate for heart attack patients";12.0;0.0;0.0;7
+"NM";"MORT_30_PN";"Death rate for pneumonia patients";16.81;0.0;0.0;16
+"NV";"MORT_30_AMI";"Death rate for heart attack patients";12.0;0.0;0.0;3
+"OH";"MORT_30_AMI";"Death rate for heart attack patients";11.84;0.0;0.0;32
+"OR";"MORT_30_AMI";"Death rate for heart attack patients";12.25;0.0;0.0;12
+"PA";"MORT_30_AMI";"Death rate for heart attack patients";12.29;0.0;0.0;24
+"PR";"MORT_30_AMI";"Death rate for heart attack patients";0.0;12.75;0.0;4
+"RI";"MORT_30_AMI";"Death rate for heart attack patients";12.0;0.0;0.0;3
+"RI";"MORT_30_PN";"Death rate for pneumonia patients";17.0;0.0;0.0;2
+"SC";"MORT_30_AMI";"Death rate for heart attack patients";12.5;0.0;0.0;10
+"SC";"MORT_30_PN";"Death rate for pneumonia patients";17.41;0.0;0.0;17
+"SD";"MORT_30_AMI";"Death rate for heart attack patients";12.0;0.0;0.0;1
+"TN";"PSI_04";"Death rate among surgical inpatients with serious treatable complications";208.0;0.0;0.0;1
+"TX";"PSI_04";"Death rate among surgical inpatients with serious treatable complications";176.0;0.0;0.0;1
+"UT";"MORT_30_AMI";"Death rate for heart attack patients";9.0;0.0;0.0;1
+"VA";"MORT_30_AMI";"Death rate for heart attack patients";12.79;0.0;0.0;14
+"VI";"MORT_30_PN";"Death rate for pneumonia patients";0.0;22.0;0.0;2
+"VT";"MORT_30_AMI";"Death rate for heart attack patients";11.67;0.0;0.0;3
+"VT";"MORT_30_PN";"Death rate for pneumonia patients";17.6;0.0;0.0;5
+"WV";"MORT_30_AMI";"Death rate for heart attack patients";12.4;0.0;0.0;5
+"WY";"COMP_HIP_KNEE";"Rate of complications for hip/knee replacement patients";3.67;0.0;0.0;9
+"WY";"MORT_30_AMI";"Death rate for heart attack patients";12.0;0.0;0.0;1
